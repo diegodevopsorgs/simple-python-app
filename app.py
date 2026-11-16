@@ -41,7 +41,7 @@ def index():
     </head>
     <body>
         <div class="container">
-            <h1> Hello from Flask! </h1>
+            <h1> Hello from Flask!</h1>
             <p>Served by pod: <strong>{pod_name}</strong></p>
         </div>
     </body>
